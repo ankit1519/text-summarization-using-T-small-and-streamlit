@@ -1,9 +1,6 @@
 PyPDF2==1.26.0
-transformers==4.12.0
-torch==1.10.0
-torchaudio==0.10.0
+streamlit==1.8.0
+transformers==4.15.0
+gtts==2.2.3
 sentencepiece==0.1.96
-gTTS==2.2.2
-streamlit==1.10.0
-altair==4.1.0
-tokenizers==0.11.1
+torch==1.10.0
