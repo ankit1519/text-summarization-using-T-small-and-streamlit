@@ -2,5 +2,3 @@ streamlit==1.7.0
 transformers==4.13.0
 PyPDF2==1.26.0
 gTTS==2.2.3
-torch>=1.9.0,<1.10.0
-torchvision==0.10.1
